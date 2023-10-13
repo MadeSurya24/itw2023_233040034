@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+body {
+    font-family: georgia;
+
+}
+h1 {
+  font-family: comic sans ms;
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+
+}
+h4 {
+  text-align: right;
+  font-style: oblique;
+}
+
+.p1 {
+    color: orange;
+    text-align: center;
+}
+
+.p2 {
+    text-align: end;
+    line-height: 30px;
+}
